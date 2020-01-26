@@ -1,6 +1,7 @@
 {
   "name": "discordbot",
   "version": "1.0.0",
+  "engine": "10.16.2",
   "description": "Rakkina's Maid Bot",
   "main": "index.js",
   "scripts": {
